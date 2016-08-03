@@ -1,4 +1,4 @@
-const SCALE: usize = 64; // Scale of the map as an unchangable constant
+const SCALE: usize = 32; // Scale of the map as an unchangable constant
 
 struct ANT {
     x: usize,
@@ -66,3 +66,5 @@ fn main() {
     }
 
 }
+
+//NOBODY EXPECTS THE SPANISH INQUISITION! :3

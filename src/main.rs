@@ -56,8 +56,6 @@ fn print_arr(arr: &[[bool;SCALE]; SCALE]) {
 }
 
 fn main() {
-    //let mut playground: Vec<Vec<bool>> = Vec::new(); //A simple 2D Array made from bools, with a SCALE*SCALE size
-
     let mut playground = [[false;SCALE]; SCALE];
 
     let mut test = ANT {x: SCALE/2, y: SCALE/2, dir: 0, complete: false}; //A test ant

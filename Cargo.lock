@@ -1,4 +1,4 @@
 [root]
-name = "langton"
+name = "rust_langton"
 version = "0.1.0"
 
